@@ -1,10 +1,10 @@
 # Laravel 5.4 with Light-Bootstrap-Dashboard-Template
 
-This a Laravel 5.4 Base Application based on Light Boostrap Dashboard Theme.
+This is a Laravel 5.4 based application with the Light Boostrap Dashboard Theme.
 
-# Remarks :
+## Remarks :
 - VueJS removed
 
-# Links
+## Links
 - Laravel : https://laravel.com/
 - Light Bootstrap Dashboard : https://www.creative-tim.com/product/light-bootstrap-dashboard 
